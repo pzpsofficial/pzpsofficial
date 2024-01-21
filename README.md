@@ -13,6 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="center">Temporary content for college</h3>
+Link to personal webpage:
+pzpsofficial.github.io
+
+Link to the Papers with Code article:
+https://cs.paperswithcode.com/paper/towards-a-transpiler-for-c-c-to-safer-rust
+
+Link to the fork related to Papers with Code article:
+https://github.com/pzpsofficial/crust
+
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
